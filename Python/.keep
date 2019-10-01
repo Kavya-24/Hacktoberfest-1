@@ -1,0 +1,7 @@
+##the hashtag is used for comment. Let's make a basic Python program
+print("Hello Hackoberfest")
+##lets make a simple function to write our name in a string.
+ a = String (input("Please enter your name: "))
+##the user is required to enter his then.
+print ("Welcome ", a)
+##this will print your name succeeding'welcome'
